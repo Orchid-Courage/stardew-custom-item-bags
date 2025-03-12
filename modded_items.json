@@ -1,0 +1,74 @@
+{
+  "IsEnabled": true,
+  "CreatedByVersion": "3.0.10",
+  "Mods": [
+    {
+      "ModUniqueId": "DIGUS.ANIMALHUSBANDRYMOD", // The "UniqueID" of the manifest.json that the items belong to
+      "Bags": [ // An array of all bags that will be modified to support modded items for the mod
+        {
+          "Name": "Animal Products Bag", // The name of the bag that you want to be able to store modded items in. Does not include the bag's Size.
+          "Items": [
+            {
+              "ObjectId": "639", //beef
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Small"
+            },
+            {
+              "ObjectId": "640", //pork
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Small"
+            },
+            {
+              "ObjectId": "641", //chicken
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Small"
+            },
+            {
+              "ObjectId": "642", //duck
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Small"
+            },
+            {
+              "ObjectId": "643", //rabbit
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Small"
+            },
+            {
+              "ObjectId": "644", //mutton
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Small"
+            },
+            {
+              "ObjectId": "620", //ostrich
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Large"
+            }
+          ]
+        }
+      ]
+    }
+    //{
+    //  "ModUniqueId": "", // The "UniqueID" of the manifest.json that the items belong to
+    //  "Bags": [ // An array of all bags that will be modified to support modded items for the mod
+    //    {
+    //      "Name": "", // The name of the bag that you want to be able to store modded items in. Does not include the bag's Size.
+    //      "Items": [
+    //        {
+    //          "ObjectId": "",
+    //          "IsBigCraftable": true/false,
+    //          "HasQualities": true/false,
+    //          "RequiredSize": "Small/Medium/Large/Giant/Massive"
+    //        }
+    //      ]
+    //    }
+    //  ]
+    //}
+  ]
+}
