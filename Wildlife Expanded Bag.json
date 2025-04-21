@@ -1,0 +1,388 @@
+{
+  "IsEnabled": true,
+  "ModUniqueId": "NatAnc.WildlifeExpanded",
+  "BagId": "93c2e068-b5cb-989d-95a3-ed42fb22a903",
+  "BagName": "Wildlife Expanded Bag",
+  "BagDescription": "A bag for storing creatures from the Wildlife Expanded mod",
+  "IconTexture": "SpringObjects",
+  "IconPosition": {
+    "X": 0,
+    "Y": 0,
+    "Width": 0,
+    "Height": 0
+  },
+  "Prices": {
+    "Small": 2500,
+    "Medium": 7500,
+    "Large": 25000,
+    "Giant": 75000,
+    "Massive": 250000
+  },
+  "Capacities": {
+    "Small": 30,
+    "Medium": 99,
+    "Large": 300,
+    "Giant": 999,
+    "Massive": 9999
+  },
+  "SizeSellers": {
+    "Small": [
+      "Pierre"
+    ],
+    "Medium": [
+      "Pierre"
+    ],
+    "Large": [
+      "Pierre"
+    ],
+    "Giant": [
+      "Pierre"
+    ],
+    "Massive": [
+      "Pierre"
+    ]
+  },
+  "SizeMenuOptions": {
+    "Small": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Medium": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Large": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Giant": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Massive": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    }
+  },
+  "Items": [
+    {
+      "ObjectId": "NatInValley.Creature.WoodLouse",
+      "Name": "WoodLouse",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.Roly-Poly",
+      "Name": "Roly-Poly",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.Cockroach",
+      "Name": "Cockroach",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.PaleGrassButterfly",
+      "Name": "Pale Grass Butterfly",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.AntarcticMidge",
+      "Name": "Antarctic Midge",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.GreenFrog",
+      "Name": "Green Frog",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Medium"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.BabyRockCrab",
+      "Name": "Baby Rock Crab",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Medium"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.RedSquirrel",
+      "Name": "Red Squirrel",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Medium"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.RedBackedSalamander",
+      "Name": "Red Backed Salamander",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Medium"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.BrownBunny",
+      "Name": "Brown Bunny",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Medium"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.StinkBeetle",
+      "Name": "Stink Beetle",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Medium"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.Chipmunk",
+      "Name": "Chipmunk",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Medium"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.Shrew",
+      "Name": "Shrew",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Medium"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.FieldMouse",
+      "Name": "Field Mouse",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Medium"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.FieldLocust",
+      "Name": "Field Locust",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Medium"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.CaveScorpion",
+      "Name": "Cave Scorpion",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Medium"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.BlueWeevil",
+      "Name": "Blue Weevil",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Medium"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.LavaCricket",
+      "Name": "Lava Cricket",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Medium"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.MarineBlueButterfly",
+      "Name": "Marine Blue Butterfly",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Medium"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.MarmoratedStinkBug",
+      "Name": "Marmorated Stink Bug",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Medium"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.LeafInsect",
+      "Name": "Leaf Insect",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.NymphLeafInsect",
+      "Name": "Nymph Leaf Insect",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.RockSpider",
+      "Name": "Rock Spider",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.RedPanda",
+      "Name": "Red Panda",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.RustyCaterpillar",
+      "Name": "Rusty Caterpillar",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.RustyTussockMoth",
+      "Name": "Rusty Tussock Moth",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.KiwiBird",
+      "Name": "Kiwi Bird",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.KamehamehaButterfly",
+      "Name": "Kamehameha Butterfly",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.GreaterBilbie",
+      "Name": "Greater Bilbie",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.CoconutCrab",
+      "Name": "Coconut Crab",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.AlpineNewt",
+      "Name": "Alpine Newt",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Large"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.Koala",
+      "Name": "Koala",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Giant"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.BabyTruffleCrab",
+      "Name": "Baby Truffle Crab",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Giant"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.GoldenEarthWorm",
+      "Name": "Golden Earth Worm",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Giant"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.PurpleShotCopperButterfly",
+      "Name": "Purple Shot Copper Butterfly",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Giant"
+    },
+    {
+      "ObjectId": "NatInValley.Creature.BabyMeteoriteCrab",
+      "Name": "Baby Meteorite Crab",
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Massive"
+    }
+  ],
+  "ItemCategories": {
+    "Small": [],
+    "Medium": [],
+    "Large": [],
+    "Giant": [],
+    "Massive": []
+  }
+}
