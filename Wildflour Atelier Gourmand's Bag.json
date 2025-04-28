@@ -1,0 +1,1067 @@
+{
+  "IsEnabled": true,
+  "ModUniqueId": "Wildflour.AtelierGoods",
+  "BagId": "1ffe81e3-a2e2-812d-cbb7-ddae985f6bf5",
+  "BagName": "Wildflour Atelier Gourmand's Bag",
+  "BagDescription": "A bag for storing gourmand items belonging to Wildflour.AtelierGoods mod",
+  "IconTexture": "SpringObjects",
+  "IconPosition": {
+    "X": 0,
+    "Y": 0,
+    "Width": 0,
+    "Height": 0
+  },
+  "Prices": {
+    "Small": 2500,
+    "Medium": 7500,
+    "Large": 25000,
+    "Giant": 75000,
+    "Massive": 250000
+  },
+  "Capacities": {
+    "Small": 30,
+    "Medium": 99,
+    "Large": 300,
+    "Giant": 999,
+    "Massive": 9999
+  },
+  "SizeSellers": {
+    "Small": [
+      "Pierre"
+    ],
+    "Medium": [
+      "Pierre"
+    ],
+    "Large": [
+      "Pierre"
+    ],
+    "Giant": [
+      "Pierre"
+    ],
+    "Massive": [
+      "Pierre"
+    ]
+  },
+  "SizeMenuOptions": {
+    "Small": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 6,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 15,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Medium": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 6,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 15,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Large": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 6,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 15,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Giant": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 6,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 15,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Massive": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 6,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 15,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    }
+  },
+  "Items": [
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Butter"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Buttermilk"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Caramel"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cream"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cream_Cheese"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Coconut_Milk"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Rice_Milk"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Bread_Flour"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cake_Flour"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Coconut_Flour"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Corn_Flour"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pastry_Flour"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Rice_Flour"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Brown_Sugar"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Confectioners_Sugar"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Matcha_Powder"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pectin"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Rainbow_Sprinkles"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Ancient_Fruit_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Apple_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Apricot_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Banana_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cherry_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Grenadine_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mango_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Orange_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Peach_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pumpkin_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Rose_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Strawberry_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Apple_Butter"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Honey_Butter"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Maple_Butter"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pumpkin_Butter"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Orange_Curd"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Almond_Milk"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Almond_Flour"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Olive_Oil"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Dark_Chocolate"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Milk_Chocolate"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_White_Chocolate"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cherry_Blossom_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Chocolate_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Elderberry_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lavender_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lemon_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lime_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Raspberry_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Vanilla_Syrup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lemon_Curd"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lime_Curd"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Banana_Maple_Jam"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Banana_Split_Jam"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Blue_Jazz_Jelly"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cranberry_Chutney"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Crocus_Jelly"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Dandelion_Jelly"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Honey_Apricot_Preserves"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Honey_Peach_Preserves"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mango_Chutney"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mixed_Berry_Preserves"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Rose_Petal_Jelly"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Flower_Dance_Jelly"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Luau_Jam"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Spirits_Eve_Jam"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Winter_Star_Jelly"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Orange_Marmalade"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Wild_Strawberry_Rhubarb_Jam"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Spangle_Jelly"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Tulip_Jelly"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Blackberry_Mint_Jelly"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Blueberry_Lavender_Jelly"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Chamomile_Jelly"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cherry_Vanilla_Jam"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cinnamon_Apple_Preserves"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Peach_Blossom_Jelly"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lemon_Marmalade"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lime_Marmalade"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Jasmine_Jelly"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Vanilla_Wild_Raspberry_Preserves"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Bruschetta"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Onion_Chutney"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pineapple_Salsa"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Giardiniera"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Horseradish_Chips"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Kale_Pesto"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Marinated_Mushrooms"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Tomato_Salsa"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Olive_Tapenade"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Peach_Salsa"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pepper_Relish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Artichoke_Hearts"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pickled_Fish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pickled_Olives"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pickled_Onions"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pickled_Carrots"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Roasted_Peppers"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sauerkraut"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mango_Salsa"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Spicy_Tomato_Salsa"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sundried_Tomatoes"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Basil_Pesto"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Tomato_Corn_Salsa"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Fruit_Basket"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Veggie_Box"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Forage_Box"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Common_Mushroom_Basket"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Gourmet_Mushroom_Basket"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Flavored_Mushroom_Basket"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Milk_Crate"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_White_Egg_Crate"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Brown_Egg_Crate"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Void_Egg_Crate"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Duck_Egg_Crate"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Tulip_Basket"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Jazz_Basket"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Poppy_Basket"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Spangle_Basket"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sunflower_Basket"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Fairy_Rose_Basket"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Generic_Flower_Basket"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Ocean_Fish_Basket"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lake_Fish_Basket"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_River_Fish_Basket"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Generic_Fish_Basket"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Crab_Pot_Basket"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Roe_Basket"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Aged_Roe_Jars"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Honey_Crate"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Jelly_Crate"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pickle_Crate"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Juice_Crate"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Wine_Crate"
+    }
+  ],
+  "ItemCategories": {
+    "Small": [],
+    "Medium": [],
+    "Large": [],
+    "Giant": [],
+    "Massive": []
+  }
+}

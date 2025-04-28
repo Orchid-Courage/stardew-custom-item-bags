@@ -1,0 +1,661 @@
+{
+  "IsEnabled": true,
+  "ModUniqueId": "Wildflour.AtelierGoods",
+  "BagId": "37ffb7bb-ca6b-3e97-8d8c-23a74aa99d03",
+  "BagName": "Wildflour Atelier Makeup Bag",
+  "BagDescription": "A bag for storing makeup items belonging to Wildflour.AtelierGoods mod",
+  "IconTexture": "SpringObjects",
+  "IconPosition": {
+    "X": 0,
+    "Y": 0,
+    "Width": 0,
+    "Height": 0
+  },
+  "Prices": {
+    "Small": 2500,
+    "Medium": 7500,
+    "Large": 25000,
+    "Giant": 75000,
+    "Massive": 250000
+  },
+  "Capacities": {
+    "Small": 30,
+    "Medium": 99,
+    "Large": 300,
+    "Giant": 999,
+    "Massive": 9999
+  },
+  "SizeSellers": {
+    "Small": [
+      "Pierre"
+    ],
+    "Medium": [
+      "Pierre"
+    ],
+    "Large": [
+      "Pierre"
+    ],
+    "Giant": [
+      "Pierre"
+    ],
+    "Massive": [
+      "Pierre"
+    ]
+  },
+  "SizeMenuOptions": {
+    "Small": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Medium": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Large": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Giant": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Massive": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    }
+  },
+  "Items": [
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Archmage_Nail_Polish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Harvest_Goddess_Nail_Polish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Hedgewitch_Nail_Polish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Ice_Queen_Nail_Polish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lady_Lake_Nail_Polish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Little_Mermaid_Nail_Polish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pretty_Princess_Nail_Polish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Spring_Goddess_Nail_Polish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sweet_Sorceress_Nail_Polish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Wise_Warlock_Nail_Polish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Aquarius_Lotion"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Aries_Lotion"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cancer_Lotion"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Capricorn_Lotion"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Gemini_Lotion"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Leo_Lotion"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Libra_Lotion"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pisces_Lotion"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sagittarius_Lotion"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Scorpio_Lotion"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Taurus_Lotion"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Virgo_Lotion"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Envy_Blush"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Gluttony_Blush"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Greed_Blush"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lust_Blush"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pride_Blush"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sloth_Blush"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Wrath_Blush"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Air_Cleanser"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Earth_Cleanser"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Fire_Cleanser"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Water_Cleanser"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Brightening_Powder"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Bronzing_Powder"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Concealing_Powder"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Illusion_Powder"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mysterious_Powder"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Refreshing_Powder"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Dawn_Lipstick"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Dusk_Lipstick"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lunar_Lipstick"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Midnight_Lipstick"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Solar_Lipstick"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Stellar_Lipstick"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Twilight_Lipstick"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Earth_Lip_Gloss"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Jupiter_Lip_Gloss"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mars_Lip_Gloss"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mercury_Lip_Gloss"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Neptune_Lip_Gloss"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pluto_Lip_Gloss"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Saturn_Lip_Gloss"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Uranus_Lip_Gloss"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Venus_Lip_Gloss"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Black_Cat_Mascara"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Goblin_Gaze_Mascara"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Brush"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Blues_Palette"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Fall_Palette"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Greens_Palette"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pinks_Palette"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Purples_Palette"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Spring_Palette"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Summer_Palette"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Winter_Palette"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Faerie_Fire"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Forest_Echo"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Frostbite"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lightning_Strike"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Maelstrom"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Misty_Step"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Morning_Dew"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Thunderclap"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Whirlwind"
+    }
+  ],
+  "ItemCategories": {
+    "Small": [],
+    "Medium": [],
+    "Large": [],
+    "Giant": [],
+    "Massive": []
+  }
+}

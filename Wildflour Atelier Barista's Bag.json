@@ -1,0 +1,822 @@
+{
+  "IsEnabled": true,
+  "ModUniqueId": "Wildflour.AtelierGoods",
+  "BagId": "844b0067-2a0f-3d00-e576-6b8bbad124bb",
+  "BagName": "Wildflour Atelier Barista's Bag",
+  "BagDescription": "A bag for storing barista items belonging to Wildflour.AtelierGoods mod",
+  "IconTexture": "SpringObjects",
+  "IconPosition": {
+    "X": 0,
+    "Y": 0,
+    "Width": 0,
+    "Height": 0
+  },
+  "Prices": {
+    "Small": 2500,
+    "Medium": 7500,
+    "Large": 25000,
+    "Giant": 75000,
+    "Massive": 250000
+  },
+  "Capacities": {
+    "Small": 30,
+    "Medium": 99,
+    "Large": 300,
+    "Giant": 999,
+    "Massive": 9999
+  },
+  "SizeSellers": {
+    "Small": [
+      "Pierre"
+    ],
+    "Medium": [
+      "Pierre"
+    ],
+    "Large": [
+      "Pierre"
+    ],
+    "Giant": [
+      "Pierre"
+    ],
+    "Massive": [
+      "Pierre"
+    ]
+  },
+  "SizeMenuOptions": {
+    "Small": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Medium": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Large": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Giant": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Massive": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    }
+  },
+  "Items": [
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Amoretto_Ground_Coffee"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Amoretto_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Amoretto_Iced_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cinnamon_Bunny_Ground_Coffee"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cinnamon_Bunny_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cinnamon_Bunny_Iced_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Coco_Cabana_Ground_Coffee"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Coco_Cabana_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Coco_Cabana_Iced_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Early_Riser_Ground_Coffee"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Early_Riser_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Early_Riser_Iced_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mucha_Mocha_Ground_Coffee"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mucha_Mocha_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mucha_Mocha_Iced_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pistachio_Buzz_Ground_Coffee"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pistachio_Buzz_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pistachio_Buzz_Iced_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pumpkin_King_Ground_Coffee"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pumpkin_King_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pumpkin_King_Iced_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sleigh_Ride_Ground_Coffee"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sleigh_Ride_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sleigh_Ride_Iced_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sweetheart_Ground_Coffee"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sweetheart_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sweetheart_Iced_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Warm_Vanilla_Sugar_Ground_Coffee"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Warm_Vanilla_Sugar_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Warm_Vanilla_Sugar_Iced_Latte"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Alchemist_Blend_Boba"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Alchemist_Blend_Kombucha"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Alchemist_Blend_Sachet"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Alchemist_Blend_Tea"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Blueberry_Matcha_Boba"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Blueberry_Matcha_Kombucha"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Blueberry_Matcha_Sachet"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Blueberry_Matcha_Tea"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cherry_Blossom_Matcha_Boba"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cherry_Blossom_Matcha_Kombucha"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cherry_Blossom_Matcha_Sachet"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cherry_Blossom_Matcha_Tea"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cookie_Jar_Boba"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cookie_Jar_Kombucha"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cookie_Jar_Sachet"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cookie_Jar_Tea"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Good_Thyme_Boba"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Good_Thyme_Kombucha"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Good_Thyme_Sachet"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Good_Thyme_Tea"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Happy_Harvest_Boba"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Happy_Harvest_Kombucha"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Happy_Harvest_Sachet"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Happy_Harvest_Tea"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_North_Pole_Boba"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_North_Pole_Kombucha"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_North_Pole_Sachet"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_North_Pole_Tea"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pelican_Fog_Boba"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pelican_Fog_Kombucha"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pelican_Fog_Sachet"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pelican_Fog_Tea"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Plum_Chai_Boba"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Plum_Chai_Kombucha"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Plum_Chai_Sachet"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Plum_Chai_Tea"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Positivitea_Boba"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Positivitea_Kombucha"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Positivitea_Sachet"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Positivitea_Tea"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sun_Room_Boba"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sun_Room_Kombucha"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sun_Room_Sachet"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sun_Room_Tea"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sunny_Delight_Boba"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sunny_Delight_Kombucha"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sunny_Delight_Sachet"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sunny_Delight_Tea"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Berry_Good_Thyme_Lemonade"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Chamomile_Mint_Lemonade"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Classic_Lemonade"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Green_Tea_Lemonade"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lavender_Lemonade"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Minty_Hibiscus_Lemonade"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Orange_Blossom_Lemonade"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Peachy_Keen_Lemonade"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Strawberry_Rhubarb_Lemonade"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Rosey_Posey_Lemonade"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cinnamon_Toast_Crunch_Smoothie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Energizer_Bunny_Smoothie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Honey_Nut_Junimo_Smoothie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lady_Godiva_Smoothie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lucky_Charms_Smoothie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mean_Green_Smoothie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Monkey_Business_Smoothie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Oops_All_Berries_Smoothie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sleepy_Hollow_Smoothie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Walkin_On_Sunshine_Smoothie"
+    }
+  ],
+  "ItemCategories": {
+    "Small": [],
+    "Medium": [],
+    "Large": [],
+    "Giant": [],
+    "Massive": []
+  }
+}

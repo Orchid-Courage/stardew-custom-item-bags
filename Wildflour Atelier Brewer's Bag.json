@@ -1,0 +1,304 @@
+{
+  "IsEnabled": true,
+  "ModUniqueId": "Wildflour.AtelierGoods",
+  "BagId": "a4300248-3f66-b66a-aed0-e5db25bf6d47",
+  "BagName": "Wildflour Atelier Brewer's Bag",
+  "BagDescription": "A bag for storing brewed items belonging to Wildflour.AtelierGoods mod",
+  "IconTexture": "SpringObjects",
+  "IconPosition": {
+    "X": 0,
+    "Y": 0,
+    "Width": 0,
+    "Height": 0
+  },
+  "Prices": {
+    "Small": 2500,
+    "Medium": 7500,
+    "Large": 25000,
+    "Giant": 75000,
+    "Massive": 250000
+  },
+  "Capacities": {
+    "Small": 30,
+    "Medium": 99,
+    "Large": 300,
+    "Giant": 999,
+    "Massive": 9999
+  },
+  "SizeSellers": {
+    "Small": [
+      "Pierre"
+    ],
+    "Medium": [
+      "Pierre"
+    ],
+    "Large": [
+      "Pierre"
+    ],
+    "Giant": [
+      "Pierre"
+    ],
+    "Massive": [
+      "Pierre"
+    ]
+  },
+  "SizeMenuOptions": {
+    "Small": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Medium": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Large": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Giant": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Massive": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    }
+  },
+  "Items": [
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Bobbin_For_Aleples"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Bonfire_Ale"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Dust_Sprite_Stout"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Jingle_Ale_The_Way"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lavender_Haze_IPA"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Livin_Off_The_Land_Ale"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pelican_Pilsner"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sandcastle_IPA"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Scarecrow_Stout"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Scrooge_Tripel"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Snowman_Cream_Ale"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Wednesdays_Void_Lager"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Beach_Party_Mead"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Falling_Petals_Mead"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Farmhouse_Cider_Mead"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Fireworks_Mead"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Gentle_Breeze_Mead"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Leaf_Pile_Mead"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Picnic_Basket_Mead"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Spellbound_Mead"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sunny_Daze_Mead"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Twinkle_Mead"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Weird_Sisters_Mead"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Yule_Log_Mead"
+    }
+  ],
+  "ItemCategories": {
+    "Small": [],
+    "Medium": [],
+    "Large": [],
+    "Giant": [],
+    "Massive": []
+  }
+}

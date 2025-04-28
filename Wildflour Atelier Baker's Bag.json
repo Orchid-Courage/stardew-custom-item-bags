@@ -1,0 +1,990 @@
+{
+  "IsEnabled": true,
+  "ModUniqueId": "Wildflour.AtelierGoods",
+  "BagId": "845c70d5-5220-b259-af88-a65a6775aac3",
+  "BagName": "Wildflour Atelier Baker's Bag",
+  "BagDescription": "A bag for storing bakery items belonging to Wildflour.AtelierGoods mod",
+  "IconTexture": "SpringObjects",
+  "IconPosition": {
+    "X": 0,
+    "Y": 0,
+    "Width": 0,
+    "Height": 0
+  },
+  "Prices": {
+    "Small": 2500,
+    "Medium": 7500,
+    "Large": 25000,
+    "Giant": 75000,
+    "Massive": 250000
+  },
+  "Capacities": {
+    "Small": 30,
+    "Medium": 99,
+    "Large": 300,
+    "Giant": 999,
+    "Massive": 9999
+  },
+  "SizeSellers": {
+    "Small": [
+      "Pierre"
+    ],
+    "Medium": [
+      "Pierre"
+    ],
+    "Large": [
+      "Pierre"
+    ],
+    "Giant": [
+      "Pierre"
+    ],
+    "Massive": [
+      "Pierre"
+    ]
+  },
+  "SizeMenuOptions": {
+    "Small": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 6,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 5,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Medium": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 6,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 5,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Large": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 6,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 5,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Giant": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 6,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 5,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Massive": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 6,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 5,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    }
+  },
+  "Items": [
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Muffin_Mix"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Blueberry_Muffins"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Poppyseed_Muffins"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Walnut_Muffins"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pistachio_Muffins"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Coffee_Cake_Muffins"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Chocolate_Scones"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Raspberry_Scones"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Blackberry_Scones"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cranberry_Scones"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lavender_Scones"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cake_Mix"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Apple_Cake"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Citrus_Thyme_Cake"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Raspberry_Chamomile_Cake"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Peach_Cake"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Spiced_Cake"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Tropical_Floral_Cake"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Almond_Elderflower_Cake"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Victoria_Sponge_Cake"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pink_Velvet_Cake"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Summer_Flower_Cake"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Chocolate_Mudslide_Cake"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Strawberry_Cupcakes"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Vanilla_Cupcakes"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Chocolate_Cupcakes"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Neapolitan_Cupcakes"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Matcha_Cupcakes"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Chocolate_Mint_Cupcakes"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Tropical_Cupcakes"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Berry_Petit_Fours"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pineapple_Cherry_Petit_Fours"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Floral_Petit_Fours"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Rose_Petit_Fours"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Blueberry_Petit_Fours"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Carrot_Petit_Fours"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Chocolate_Strawberry_Petit_Fours"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Citrus_Petit_Fours"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Red_Velvet_Petit_Fours"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Apple_Petit_Fours"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pie_Mix"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Brown_Sugar_Pie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cherry_Pie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Elderberry_Pie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Apple_Pie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sweet_Potato_Pie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pumpkin_Spice_Pie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lemon_Meringue_Pie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Key_Lime_Pie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Coconut_Cream_Pie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Peach_Pie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Blueberry_Tart"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Chocolate_Hazelnut_Tart"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Orange_Dandelion_Tart"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Raspberry_Pistachio_Tart"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Starfruit_Tart"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mojito_Tart"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mango_Pineapple_Tart"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cookie_Mix"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Vanilla_Heart_Cookies"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cherry_Thumbprint_Cookies"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cheesecake_Thumbprint_Cookies"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Assorted_Cookies"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Magic_Thumbprint_Cookies"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Chocolate_Thumbprint_Cookies"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lemon_Cookies"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Strawberry_Heart_Cookies"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Rose_Cookies"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Honey_Lavender_Cookies"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Floral_Macarons"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Berry_Macarons"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cafe_Macarons"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Citrus_Macarons"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Chocolate_Macarons"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Fudgy_Brownies"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mint_Brownies"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Coconut_Brownies"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lemon_Bars"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Red_Velvet_Brownies"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Bread_Mix"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Bread_Loaves"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Baguettes"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pretzel"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pretzel_Buns"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Rye_Loaves"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sandwich_Buns"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Poppyseed_Bread"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Ciabatta"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Iced_Buns"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Classic_Doughnuts"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Country_Bread"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Olive_Loaves"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Croissants"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sweet_Buns"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Demi_Baguette"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Brioche"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sourdough"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Herb_Focaccia"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Tomato_Basil_Focaccia"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pumpernickel_Bread"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cinnamon_Rolls"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pain_Au_Chocolat"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Strawberry_Doughnuts"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Matcha_Doughnuts"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cinnamon_Spice_Doughnuts"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lavender_Doughnuts"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Apple_Doughnuts"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lemon_Doughnuts"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Chocolate_Doughnuts"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Vanilla_Eclairs"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Raspberry_Eclairs"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pistachio_Eclairs"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Blueberry_Eclairs"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mocha_Eclairs"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Citrus_Eclairs"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Gem_Pudding"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mystical_Pudding"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cherry_Blossom_Pudding"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Raspberry_Pudding"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Tropical_Pudding"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Vanilla_Pudding"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lemon_Pudding"
+    }
+  ],
+  "ItemCategories": {
+    "Small": [],
+    "Medium": [],
+    "Large": [],
+    "Giant": [],
+    "Massive": []
+  }
+}

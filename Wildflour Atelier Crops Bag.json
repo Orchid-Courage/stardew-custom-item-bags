@@ -1,0 +1,612 @@
+{
+  "IsEnabled": true,
+  "ModUniqueId": "Wildflour.AtelierGoods",
+  "BagId": "0b572437-4ac5-d5c9-9c3f-74d8257ce9a0",
+  "BagName": "Wildflour Atelier Crops Bag",
+  "BagDescription": "A bag for storing crops, forage, and seeds belonging to Wildflour.AtelierGoods mod",
+  "IconTexture": "SpringObjects",
+  "IconPosition": {
+    "X": 0,
+    "Y": 0,
+    "Width": 0,
+    "Height": 0
+  },
+  "Prices": {
+    "Small": 2500,
+    "Medium": 7500,
+    "Large": 25000,
+    "Giant": 75000,
+    "Massive": 250000
+  },
+  "Capacities": {
+    "Small": 30,
+    "Medium": 99,
+    "Large": 300,
+    "Giant": 999,
+    "Massive": 9999
+  },
+  "SizeSellers": {
+    "Small": [
+      "Pierre"
+    ],
+    "Medium": [
+      "Pierre"
+    ],
+    "Large": [
+      "Pierre"
+    ],
+    "Giant": [
+      "Pierre"
+    ],
+    "Massive": [
+      "Pierre"
+    ]
+  },
+  "SizeMenuOptions": {
+    "Small": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Medium": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Large": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Giant": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Massive": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    }
+  },
+  "Items": [
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Almond_Sapling"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Anise_Sapling"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cacao_Sapling"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cashew_Sapling"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Elder_Sapling"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Olive_Sapling"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lemon_Sapling"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lime_Sapling"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pistachio_Sapling"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Walnut_Sapling"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Basil_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Chamomile_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Chicken_Woods_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cilantro_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Honey_Fungus_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Jasmine_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lavender_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mallow_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Meringue_Mushroom_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Milk_Mushroom_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mint_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Red_Onion_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Rosemary_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sage_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Thyme_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Vanilla_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Wheatberry_Mushroom_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Wild_Raspberry_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Wild_Strawberry_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Wormwood_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Almond"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Anise"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cacao_Pod"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cashew"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cinnamon"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Elderberries"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Olive"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lemon"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lime"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Pistachio"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Walnut"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Basil"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Chamomile"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cherry_Blossoms"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Chicken_Woods"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Cilantro"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Gentian_Root"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Honey_Fungus"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Honeycomb"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Jasmine"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Lavender"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mallow"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Meringue_Mushroom"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Milk_Mushroom"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Mint"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Red_Onion"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Rosemary"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Sage"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Thyme"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Vanilla"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Wheatberry_Mushroom"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Wild_Raspberry"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Wild_Strawberry"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Wormwood"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Fruit_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Veggie_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Herb_Seeds"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "Wildflour.AtelierGoods_Flower_Seeds"
+    }
+  ],
+  "ItemCategories": {
+    "Small": [],
+    "Medium": [],
+    "Large": [],
+    "Giant": [],
+    "Massive": []
+  }
+}
