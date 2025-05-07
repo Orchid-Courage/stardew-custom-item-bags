@@ -53,6 +53,199 @@
           ]
         }
       ]
+    },
+    {
+      "ModUniqueId": "voiddreams.ArtisanGoodsKeepQuality", // The "UniqueID" of the manifest.json that the items belong to
+      "Bags": [ // An array of all bags that will be modified to support modded items for the mod
+        {
+          "Name": "Animal Products Bag", // The name of the bag that you want to be able to store modded items in. Does not include the bag's Size.
+          "Items": [
+            {
+              "ObjectId": "306", //mayo
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Small"
+            },
+            {
+              "ObjectId": "428", //cloth
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Small"
+            }
+          ]
+        },
+        {
+          "Name": "Food Bag",
+          "Items": [
+            {
+              "Id": "246", //wheat flour
+              "HasQualities": true,
+              "IsBigCraftable": false
+            },
+            {
+              "Id": "245", //sugar
+              "HasQualities": true,
+              "IsBigCraftable": false
+            },
+            {
+              "Id": "247", //oil
+              "HasQualities": true,
+              "IsBigCraftable": false
+            },
+            {
+              "Id": "419", //vinegar
+              "HasQualities": true,
+              "IsBigCraftable": false
+            },
+            {
+              "Id": "423", //rice
+              "HasQualities": true,
+              "IsBigCraftable": false
+            },
+            {
+              "Id": "814", //squid ink
+              "HasQualities": true,
+              "IsBigCraftable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ModUniqueId": "Strobe.largevoidegg", // The "UniqueID" of the manifest.json that the items belong to
+      "Bags": [ // An array of all bags that will be modified to support modded items for the mod
+        {
+          "Name": "Animal Products Bag", // The name of the bag that you want to be able to store modded items in. Does not include the bag's Size.
+          "Items": [
+            {
+              "ObjectId": "Strobe.largevoidegg_LargeVoidEgg",
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Medium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ModUniqueId": "6480.blueegg", // The "UniqueID" of the manifest.json that the items belong to
+      "Bags": [ // An array of all bags that will be modified to support modded items for the mod
+        {
+          "Name": "Animal Products Bag", // The name of the bag that you want to be able to store modded items in. Does not include the bag's Size.
+          "Items": [
+            {
+              "ObjectId": "6480.blueegg_BlueEgg",
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Medium"
+            },
+            {
+              "ObjectId": "6480.blueegg_BlueMayo",
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Medium"
+            },
+            {
+              "ObjectId": "6480.blueegg_OstrichMayo",
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Large"
+            },
+            {
+              "ObjectId": "6480.blueegg_GoldenMayo",
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Giant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ModUniqueId": "Meara.Roosters", // The "UniqueID" of the manifest.json that the items belong to
+      "Bags": [ // An array of all bags that will be modified to support modded items for the mod
+        {
+          "Name": "Animal Products Bag", // The name of the bag that you want to be able to store modded items in. Does not include the bag's Size.
+          "Items": [
+            {
+              "ObjectId": "Meara.Roosters_EggFertMach",
+              "IsBigCraftable": true,
+              "HasQualities": false,
+              "RequiredSize": "Medium"
+            },
+            {
+              "ObjectId": "Meara.RoostersLargevoidEgg",
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Medium"
+            },
+            {
+              "ObjectId": "Meara.RoostersBlueEgg",
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Medium"
+            },
+            {
+              "ObjectId": "Meara.RoostersLargeBlueEgg",
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Medium"
+            },
+            {
+              "ObjectId": "Meara.RoostersLargeGoldEgg",
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Giant"
+            },
+            {
+              "ObjectId": "Meara.Roosters_FertEggBrown",
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Medium"
+            },
+            {
+              "ObjectId": "Meara.Roosters_FertEggWhite",
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Medium"
+            },
+            {
+              "ObjectId": "Meara.Roosters_FertEggBlue",
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Medium"
+            },
+            {
+              "ObjectId": "Meara.Roosters_FertEggVoid",
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Medium"
+            },
+            {
+              "ObjectId": "Meara.Roosters_FertEggGold",
+              "IsBigCraftable": false,
+              "HasQualities": true,
+              "RequiredSize": "Giant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ModUniqueId": "Cornucopia.ArtisanMachines", // The "UniqueID" of the manifest.json that the items belong to
+      "Bags": [ // An array of all bags that will be modified to support modded items for the mod
+        {
+          "Name": "Food Bag", // The name of the bag that you want to be able to store modded items in. Does not include the bag's Size.
+          "Items": [
+            {
+              "ObjectId": "Cornucopia_Juicer",
+              "IsBigCraftable": true,
+              "HasQualities": false,
+              "RequiredSize": "Medium"
+            }
+          ]
+        }
+      ]
     }
     //{
     //  "ModUniqueId": "", // The "UniqueID" of the manifest.json that the items belong to
