@@ -1,0 +1,933 @@
+{
+  "IsEnabled": true,
+  "ModUniqueId": "aztecviper.fishofstardew",
+  "BagId": "37e6d3af-5467-600f-395f-4364ec7c41ca",
+  "BagName": "fish of stardew bag",
+  "BagDescription": "A bag for storing items belonging to aztecviper.fishofstardew mod",
+  "IconTexture": "SpringObjects",
+  "IconPosition": {
+    "X": 0,
+    "Y": 0,
+    "Width": 0,
+    "Height": 0
+  },
+  "Prices": {
+    "Small": 2500,
+    "Medium": 7500,
+    "Large": 25000,
+    "Giant": 75000,
+    "Massive": 250000
+  },
+  "Capacities": {
+    "Small": 30,
+    "Medium": 99,
+    "Large": 300,
+    "Giant": 999,
+    "Massive": 9999
+  },
+  "SizeSellers": {
+    "Small": [
+      "Willy"
+    ],
+    "Medium": [
+      "Willy"
+    ],
+    "Large": [
+      "Willy"
+    ],
+    "Giant": [
+      "Willy"
+    ],
+    "Massive": [
+      "Willy"
+    ]
+  },
+  "SizeMenuOptions": {
+    "Small": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Medium": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Large": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Giant": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    },
+    "Massive": {
+      "GroupByQuality": true,
+      "InventoryColumns": 12,
+      "InventorySlotSize": 64,
+      "GroupedLayoutOptions": {
+        "GroupsPerRow": 5,
+        "ShowValueColumn": true,
+        "SlotSize": 64
+      },
+      "UngroupedLayoutOptions": {
+        "Columns": 12,
+        "LineBreakIndices": [],
+        "LineBreakHeights": [],
+        "SlotSize": 64
+      }
+    }
+  },
+  "Items": [
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_LunarSalmon"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_MudTrout"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BlueCatfish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_ArmoredCatfish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_WhiteSturgeon"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_MossyCod"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_GhostPike"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_RadioactiveSunfish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_SpottedRay"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BrownShad"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_DeepSeaHalibut"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_SeaweedHalibut"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_CrimsonShad"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_SockeyeSalmon"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_CookieOctopus"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_Bluegill"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BlackClownfish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_MorayEel"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_VermilionCarp"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_PumpkinPerch"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_YellowfinCarp"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_EmeraldJackfish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_StripedChar"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BabyReefShark"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_StoneTetra"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_MuddyTetra"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_IridiumSalmon"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_Chad"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_SunscaledTrout"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_FrostbiteFlounder"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_GlacierBass"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_WhisperingWalleye"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BandedEel"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_IceyOctopus"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_PurpleParrotfish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_SandRay"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_Triggerfish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_Sailfin"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_SaltGrouper"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_MossyTetra"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_ReefShark"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_WillowCutthroat"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_LongfinEel"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_SmokedSturgeonRoll"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_DeepSeaHalibutRoll"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_CookieOctopusRoll"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_SmokedSalmonRoll"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_MossyCodStew"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BlackClownfishRoll"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_MorayEelRoll"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_TwilightStew"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_VermilionSoup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BakedMudTrout"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BakedGhostPike"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BakedDeepSeaHalibut"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BakedBrownShad"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BakedSockeyeSalmon"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BakedPumpkinPerch"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BakedBluegill"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_Onigiri"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_FriedFishFilet"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BakedStripedChar"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_SockeyeSalmonSashimi"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BakedSunscaledTrout"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BakedVermilionCarp"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BakedLunarSalmon"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_SeaweedSoup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BioluminescentSoup"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BakedParrotfish"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_TriggerfishSashimi"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_SeaweedCookies"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BioluminescentSeaweed"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_ArcticCockle"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BioluminescentAlgae"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_ReefSharkTooth"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_LunarScale"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_SoggyCookie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_SoggySeaweedCookie"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_SpottedRayVenom"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_SandRayVenom"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BandedEelEgg"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_MorayEelEgg"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_Sunscale"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_LongfinEelEgg"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_PrismarineRing"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_FishermansBlessing"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_MarinersBand"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_NeptunesHalo"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_PoseidonsCirclet"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_CircletOfTheSea"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_CircletOfTheCoral"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_CircletOfTheDepths"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_CircletOfTheTide"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_RayVenomRecipe"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_EelMayoRecipe"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_GemOfTheSea"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_GemOfTheCoral"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_GemOfTheDepths"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_GemOfTheTide"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_RadioactiveJade"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_BandedEelMayo"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_MorayEelMayo"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_LongfinEelMayo"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_AgedSpottedRayVenom"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_AgedSandRayVenom"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_ConcentratedSpottedRayVenom"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_ConcentratedSandRayVenom"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_PotentSpottedRayVenom"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": true,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_PotentSandRayVenom"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_WarpTotemForest"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_WarpTotemTown"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_WarpTotemEastBeach"
+    },
+    {
+      "Name": null,
+      "IsBigCraftable": false,
+      "HasQualities": false,
+      "RequiredSize": "Small",
+      "ObjectId": "aztecviper.fishofstardew_WarpTotemSecretWoods"
+    }
+  ],
+  "ItemFiltersSorting": null,
+  "ItemCategories": {
+    "Small": [],
+    "Medium": [],
+    "Large": [],
+    "Giant": [],
+    "Massive": []
+  },
+  "ItemFilters": [],
+  "ItemFiltersLimit": null,
+  "ItemFiltersOffset": null,
+  "ItemFiltersDelimiter": null,
+  "CategoryQualities": null
+}

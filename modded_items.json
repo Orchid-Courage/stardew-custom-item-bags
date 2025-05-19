@@ -246,6 +246,40 @@
           ]
         }
       ]
+    },
+    {
+      "ModUniqueId": "aztecviper.fishofstardew", // The "UniqueID" of the manifest.json that the items belong to
+      "Bags": [ // An array of all bags that will be modified to support modded items for the mod
+        {
+          "Name": "Fish Bag", // The name of the bag that you want to be able to store modded items in. Does not include the bag's Size.
+          "Items": [
+            {
+              "ObjectId": "aztecviper.fishofstardew_WarpTotemForest",
+              "IsBigCraftable": "false",
+              "HasQualities": "false",
+              "RequiredSize": "Medium"
+            },
+            {
+              "ObjectId": "aztecviper.fishofstardew_WarpTotemTown",
+              "IsBigCraftable": "false",
+              "HasQualities": "false",
+              "RequiredSize": "Medium"
+            },
+            {
+              "ObjectId": "aztecviper.fishofstardew_WarpTotemEastBeach",
+              "IsBigCraftable": "false",
+              "HasQualities": "false",
+              "RequiredSize": "Medium"
+            },
+            {
+              "ObjectId": "aztecviper.fishofstardew_WarpTotemSecretWoods",
+              "IsBigCraftable": "false",
+              "HasQualities": "false",
+              "RequiredSize": "Medium"
+            }
+          ]
+        }
+      ]
     }
     //{
     //  "ModUniqueId": "", // The "UniqueID" of the manifest.json that the items belong to
